@@ -43,7 +43,7 @@ int main(int argc, const char * argv[]) {
   return EXIT_SUCCESS;
 }
 
-/// MARK: counting_sort_mm()
+/// MARK: counting_sort()
 /// Counting sort implimenntation
 /// @param array array of values to sort
 /// @param array_l array length
